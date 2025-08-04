@@ -1,6 +1,6 @@
 [:octocat:](https://github.com) / [`cpknight`](https://github.com/cpknight) / [`projects`](https://github.com/cpknight/projects) / [`Sisu`](/)
 
-# :screwdriver: Sisu
+# :screwdriver: `Sisu`
 
 <img src="meta/sisu-spaceship-by-grok.jpg" width="450" border="1" align="right" />
 
