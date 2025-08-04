@@ -2,7 +2,7 @@
 
 # :screwdriver: Sisu
 
-<img src="meta/sisu-spaceship-by-grok.jpeg" width="140" border="1" align="right" />
+<img src="meta/sisu-spaceship-by-grok.jpg" width="250" border="1" align="right" />
 
 Welcome to the `Sisu` repository! This project is a collection of files and materials related to my work on restoring and repairing various vintage devices, primarily from the 1970s, 80s, and 90s. Occasionally, I also tackle repairs on contemporary devices. Note that this repo is separate from my `cpknight/Torch` project ([github.com/cpknight/Torch](https://github.com/cpknight/Torch)), where I focus on typewriter-related work—please check there if you're looking for my typewriter stuff to avoid confusion. The repo is public to share potentially useful details with others, though not all repairs or restorations are fully documented.
 
