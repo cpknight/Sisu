@@ -10,7 +10,7 @@ The project/repo name "Sisu" is inspired by a family-owned free trader spaceship
 
 ## Contents
 - :floppy_disk: **[Files and materials](restoration-repairs/) are in [`restoration-repairs/`](restorations-repairs/)**.
-- :bookmark_tabs: Some documents sourced here are from open sources for convenience only (no copyright claimed).
+- :bookmark_tabs: Documents here sourced from open sources are collected for convenience only (no copyright claimed).
 - :balance_scale: Any new creations in this repo are licensed under a [CC Attribution license](LICENSE.md).
 
 ## Notes
