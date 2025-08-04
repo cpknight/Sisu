@@ -1,4 +1,4 @@
-[:octocat:](https://github.com) / [`cpknight`](https://github.com/cpknight) / [`cpknight`](https://github.com/cpknight/projects) / [`Sisu`](/)
+[:octocat:](https://github.com) / [`cpknight`](https://github.com/cpknight) / [`projects`](https://github.com/cpknight/projects) / [`Sisu`](/)
 
 # :screwdriver: Sisu
 
